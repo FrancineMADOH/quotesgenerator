@@ -1,0 +1,362 @@
+[
+    {
+      "id": 1,
+      "quote": "La science, c'est croire à l'ignorance des experts.",
+      "author": "Richard Feynman",
+      "user_id": null
+    },
+    {
+      "id": 2,
+      "quote": "L'imagination est plus importante que la connaissance. La connaissance est limitée à tout ce que nous savons et comprenons maintenant, tandis que l'imagination embrasse le monde entier, et tout ce qu'il y aura à connaître et à comprendre.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 3,
+      "quote": "La véritable tragédie de la vie n'est pas la mort, mais ce que nous laissons mourir en nous pendant que nous vivons.",
+      "author": "Albert Schweitzer",
+      "user_id": null
+    },
+    {
+      "id": 4,
+      "quote": "L'éducation est l'arme la plus puissante que vous puissiez utiliser pour changer le monde.",
+      "author": "Nelson Mandela",
+      "user_id": null
+    },
+    {
+      "id": 5,
+      "quote": "Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, mais parce que nous n'osons pas qu'elles sont difficiles.",
+      "author": "Sénèque",
+      "user_id": null
+    },
+    {
+      "id": 6,
+      "quote": "Le but de la science est de trouver l'ordre dans le chaos.",
+      "author": "Ilya Prigogine",
+      "user_id": null
+    },
+    {
+      "id": 7,
+      "quote": "La paix ne peut être maintenue par la force, elle ne peut être atteinte que par la compréhension.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 8,
+      "quote": "L'histoire sera douce avec moi car j'ai l'intention de l'écrire.",
+      "author": "Winston Churchill",
+      "user_id": null
+    },
+    {
+      "id": 9,
+      "quote": "Nous devons devenir le changement que nous voulons voir dans le monde.",
+      "author": "Mahatma Gandhi",
+      "user_id": null
+    },
+    {
+      "id": 10,
+      "quote": "La simplicité est la sophistication ultime.",
+      "author": "Léonard de Vinci",
+      "user_id": null
+    },
+    {
+      "id": 11,
+      "quote": "Le doute n'est pas une condition agréable, mais la certitude est absurde.",
+      "author": "Voltaire",
+      "user_id": null
+    },
+    {
+      "id": 12,
+      "quote": "La nature est infiniment généreuse, elle ne refuse jamais ses trésors.",
+      "author": "Jules Verne",
+      "user_id": null
+    },
+    {
+      "id": 13,
+      "quote": "Le succès n'est pas la clé du bonheur. Le bonheur est la clé du succès. Si vous aimez ce que vous faites, vous réussirez.",
+      "author": "Albert Schweitzer",
+      "user_id": null
+    },
+    {
+      "id": 14,
+      "quote": "La seule façon de faire du bon travail est d'aimer ce que vous faites.",
+      "author": "Steve Jobs",
+      "user_id": null
+    },
+    {
+      "id": 15,
+      "quote": "L'univers n'est pas fait d'atomes, mais d'histoires.",
+      "author": "Brian Swimme",
+      "user_id": null
+    },
+    {
+      "id": 16,
+      "quote": "Rien n'est plus constant que le changement.",
+      "author": "Héraclite",
+      "user_id": null
+    },
+    {
+      "id": 17,
+      "quote": "L'important est de ne jamais cesser de questionner.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 18,
+      "quote": "La science sans religion est boiteuse, la religion sans science est aveugle.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 19,
+      "quote": "Le courage n'est pas l'absence de peur, mais la victoire sur elle.",
+      "author": "Nelson Mandela",
+      "user_id": null
+    },
+    {
+      "id": 20,
+      "quote": "La vie est ce qui arrive pendant que vous êtes occupé à faire d'autres projets.",
+      "author": "John Lennon",
+      "user_id": null
+    },
+    {
+      "id": 21,
+      "quote": "L'art de la science est de simplifier ce qui est complexe et de compliquer ce qui est simple.",
+      "author": "Edward Teller",
+      "user_id": null
+    },
+    {
+      "id": 22,
+      "quote": "L'optimisme est la foi qui mène à la réalisation. Rien ne peut être fait sans espoir et confiance.",
+      "author": "Helen Keller",
+      "user_id": null
+    },
+    {
+      "id": 23,
+      "quote": "Le monde est dangereux à vivre, non pas à cause de ceux qui font le mal, mais à cause de ceux qui regardent et laissent faire.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 24,
+      "quote": "La connaissance s'acquiert par l'étude ; la sagesse, par l'observation.",
+      "author": "Aurel Hermès",
+      "user_id": null
+    },
+    {
+      "id": 25,
+      "quote": "L'avenir appartient à ceux qui croient à la beauté de leurs rêves.",
+      "author": "Eleanor Roosevelt",
+      "user_id": null
+    },
+    {
+      "id": 26,
+      "quote": "La logique vous mènera de A à B. L'imagination vous mènera partout.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 27,
+      "quote": "Le plus grand ennemi de la connaissance n'est pas l'ignorance, c'est l'illusion de la connaissance.",
+      "author": "Stephen Hawking",
+      "user_id": null
+    },
+    {
+      "id": 28,
+      "quote": "Il n'y a qu'un seul bien, la connaissance, et un seul mal, l'ignorance.",
+      "author": "Socrate",
+      "user_id": null
+    },
+    {
+      "id": 29,
+      "quote": "La mesure de l'intelligence est la capacité de changer.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 30,
+      "quote": "Ceux qui ne se souviennent pas du passé sont condamnés à le répéter.",
+      "author": "George Santayana",
+      "user_id": null
+    },
+    {
+      "id": 31,
+      "quote": "Le progrès est impossible sans changement, et ceux qui ne peuvent pas changer d'avis ne peuvent rien changer.",
+      "author": "George Bernard Shaw",
+      "user_id": null
+    },
+    {
+      "id": 32,
+      "quote": "L'eau est la force motrice de toute la nature.",
+      "author": "Léonard de Vinci",
+      "user_id": null
+    },
+    {
+      "id": 33,
+      "quote": "La physique n'est pas aussi importante que l'amour.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 34,
+      "quote": "La vérité finit toujours par triompher.",
+      "author": "Émile Zola",
+      "user_id": null
+    },
+    {
+      "id": 35,
+      "quote": "Le hasard ne favorise que les esprits préparés.",
+      "author": "Louis Pasteur",
+      "user_id": null
+    },
+    {
+      "id": 36,
+      "quote": "L'homme est né libre, et partout il est dans les fers.",
+      "author": "Jean-Jacques Rousseau",
+      "user_id": null
+    },
+    {
+      "id": 37,
+      "quote": "Le bonheur n'est pas quelque chose de prêt à l'emploi. Il vient de vos propres actions.",
+      "author": "Dalaï Lama",
+      "user_id": null
+    },
+    {
+      "id": 38,
+      "quote": "La science avance par bonds et par tâtonnements.",
+      "author": "Gaston Bachelard",
+      "user_id": null
+    },
+    {
+      "id": 39,
+      "quote": "La plus belle émotion que nous puissions éprouver est le mystère. C'est la source de tout art véritable et de toute science.",
+      "author": "Albert Einstein",
+      "user_id": null
+    },
+    {
+      "id": 40,
+      "quote": "N'ayez pas peur de la perfection, vous ne l'atteindrez jamais.",
+      "author": "Salvador Dalí",
+      "user_id": null
+    },
+    {
+      "id": 41,
+      "quote": "La vie doit être comprise à l'envers, mais elle doit être vécue à l'endroit.",
+      "author": "Søren Kierkegaard",
+      "user_id": null
+    },
+    {
+      "id": 42,
+      "quote": "L'ignorance est la mère de tous les maux.",
+      "author": "François Rabelais",
+      "user_id": null
+    },
+    {
+      "id": 43,
+      "quote": "La culture, c'est ce qui reste quand on a tout oublié.",
+      "author": "Édouard Herriot",
+      "user_id": null
+    },
+    {
+      "id": 44,
+      "quote": "Le silence des justes est une faute.",
+      "author": "Dante Alighieri",
+      "user_id": null
+    },
+    {
+      "id": 45,
+      "quote": "La seule chose nécessaire au triomphe du mal est que les hommes bons ne fassent rien.",
+      "author": "Edmund Burke",
+      "user_id": null
+    },
+    {
+      "id": 46,
+      "quote": "L'art est un mensonge qui nous permet de réaliser la vérité.",
+      "author": "Pablo Picasso",
+      "user_id": null
+    },
+    {
+      "id": 47,
+      "quote": "Le temps est un grand professeur, mais il tue tous ses élèves.",
+      "author": "Hector Berlioz",
+      "user_id": null
+    },
+    {
+      "id": 48,
+      "quote": "La musique est la langue des émotions.",
+      "author": "Emmanuel Kant",
+      "user_id": null
+    },
+    {
+      "id": 49,
+      "quote": "La lecture est à l'esprit ce que l'exercice est au corps.",
+      "author": "Joseph Addison",
+      "user_id": null
+    },
+    {
+      "id": 50,
+      "quote": "Le véritable voyage de découverte ne consiste pas à chercher de nouveaux paysages, mais à avoir de nouveaux yeux.",
+      "author": "Marcel Proust",
+      "user_id": null
+    },
+    {
+      "id": 51,
+      "quote": "La démocratie est le gouvernement du peuple, par le peuple, pour le peuple.",
+      "author": "Abraham Lincoln",
+      "user_id": null
+    },
+    {
+      "id": 52,
+      "quote": "On ne voit bien qu'avec le cœur. L'essentiel est invisible pour les yeux.",
+      "author": "Antoine de Saint-Exupéry",
+      "user_id": null
+    },
+    {
+      "id": 53,
+      "quote": "La liberté n'est pas l'absence d'engagement, mais la capacité de choisir et de s'engager.",
+      "author": "Paulo Coelho",
+      "user_id": null
+    },
+    {
+      "id": 54,
+      "quote": "L'histoire de toute société jusqu'à nos jours est l'histoire de luttes de classes.",
+      "author": "Karl Marx",
+      "user_id": null
+    },
+    {
+      "id": 55,
+      "quote": "La tolérance est la conséquence de l'humanité. Nous sommes tous pétris de faiblesses et d'erreurs ; pardonnons-nous réciproquement nos sottises, c'est la première loi de la nature.",
+      "author": "Voltaire",
+      "user_id": null
+    },
+    {
+      "id": 56,
+      "quote": "Le bonheur est un papillon : plus vous le poursuivez, plus il vous échappera. Mais si vous tournez votre attention vers d'autres choses, il viendra se poser doucement sur votre épaule.",
+      "author": "Nathaniel Hawthorne",
+      "user_id": null
+    },
+    {
+      "id": 57,
+      "quote": "La musique est une loi morale. Elle donne une âme à nos cœurs, des ailes à la pensée, un essor à l'imagination, un charme à la tristesse, de la gaieté et de la vie à toute chose.",
+      "author": "Platon",
+      "user_id": null
+    },
+    {
+      "id": 58,
+      "quote": "La nature fait toujours de son mieux.",
+      "author": "Aristote",
+      "user_id": null
+    },
+    {
+      "id": 59,
+      "quote": "L'homme est un roseau, le plus faible de la nature ; mais c'est un roseau pensant.",
+      "author": "Blaise Pascal",
+      "user_id": null
+    },
+    {
+      "id": 60,
+      "quote": "Le véritable signe d'intelligence n'est pas la connaissance mais l'imagination.",
+      "author": "Albert Einstein",
+      "user_id": null
+    }
+  ]

@@ -1,0 +1,50 @@
+body {
+  background-color: #444;
+  margin: 0 auto;
+  max-width: 850px;
+  align-items: center;
+  text-align: center;
+}
+body h1 {
+  color: green;
+  text-align: center;
+  margin-top: 20%;
+}
+
+.form {
+  border: solif 1px #fff !important;
+  border-radius: 5px;
+  padding: 20px;
+}
+.form .btn, .form .call-to-action {
+  align-items: right !important;
+}
+
+input {
+  width: 50%;
+  padding: 10px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #000;
+}
+input:focus {
+  outline: none;
+  border: 2px solid green;
+}
+
+.btn, .call-to-action {
+  background-color: green;
+  color: #000;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  width: 10%;
+  text-align: center;
+  padding: 5px;
+}
+.btn:hover, .call-to-action:hover {
+  background-color: #fff;
+}
+
+/*# sourceMappingURL=style.css.map */
